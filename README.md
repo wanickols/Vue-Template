@@ -1,29 +1,8 @@
-# Vue-Template
+# littlelabs.dev
 
-This template should help get you started developing with Vue 3 in Vite.
+> 🚧 Work in Progress 🚧
 
-## Recommended IDE Setup
+This is the official site for Little Labs — my personal portfolio and home for app + web projects. Built with Vue and TypeScript.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Stay tuned!
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
